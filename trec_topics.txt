@@ -1,0 +1,50 @@
+1 Q0 ankle brace achilles tendonitis
+2 Q0 tepid sponge bath reduce fever children
+3 Q0 folic acid dementia
+4 Q0 duct tape warts
+5 Q0 put ice on a burn
+6 Q0 vitamin b12 sun exposure vitiligo
+7 Q0 yoga asthma
+8 Q0 starve a fever, feed a cold
+9 Q0 selenium cancer
+10 Q0 birth control pill ovarian cysts treatment
+11 Q0 zinc supplements pregnancy
+12 Q0 evening primrose oil eczema
+13 Q0 ankle brace broken ankle
+14 Q0 vitamin e cream for skin scars
+15 Q0 magnesium migraine prevention
+16 Q0 exercise diabetes
+17 Q0 fermented milk blood pressure
+18 Q0 dupixent eczema
+19 Q0 yoga arthritis
+20 Q0 imitrex migraine
+21 Q0 light therapy lamp depression
+22 Q0 aleve migraine
+23 Q0 toothpaste pimple overnight
+24 Q0 chondroitin supplement osteoarthritis joint disorder
+25 Q0 omega-3 fatty acids hypertriglyceridemia
+26 Q0 probiotics prevention respiratory infections
+27 Q0 aromatherapy massage rheumatoid arthritis
+28 Q0 steam shower croup
+29 Q0 minoxidil balding hair growth
+30 Q0 hoxsey treatment
+31 Q0 l-theanine supplements anxiety
+32 Q0 inhaling steam common cold
+33 Q0 exercise depression
+34 Q0 remove tick with vaseline
+35 Q0 mayonnaise lice treatment
+36 Q0 dates iron deficiency anemia
+37 Q0 vinegar fish bone stuck
+38 Q0 zinc common cold
+39 Q0 copper bracelets reduce pain
+40 Q0 fungal cream athlete's foot
+41 Q0 cocoa butter reduce pregnancy stretch marks
+42 Q0 probiotics child diarrhea caused by antibiotics 
+43 Q0 tylenol osteoarthritis
+44 Q0 music therapy depression
+45 Q0 omega 3 borderline personality disorder
+46 Q0 vitamin d asthma attacks
+47 Q0 baby soy formula prevent allergies
+48 Q0 chitosan weight loss
+49 Q0 hip osteoarthritis at-home exercises
+50 Q0 antioxidant supplements fertility
